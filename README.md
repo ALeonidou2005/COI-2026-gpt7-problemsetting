@@ -6,8 +6,8 @@ A competitive programming problem I designed for Round A of the Cyprus Olympiad 
 
 This repository contains:
 - Problem statements (English and Greek, in both .md and PDF formats)
-- Reference solutions in C++ for all 6 subtasks
-- Sample test cases
+- Solutions in C++ for all 6 subtasks
+- Test cases
 - Test case generation code
 
 ## Problem Design
