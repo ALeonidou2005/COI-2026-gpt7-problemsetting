@@ -44,7 +44,7 @@ The 6-subtask structure allows contestants to earn partial credit while solving 
 ```
 ├── GPT-7 (EN).md/pdf         # Problem statement (English)
 ├── GPT-7 (GR).md/pdf         # Problem statement (Greek)
-├── tutorial.md               # Solution explanations
+├── editorial.md              # Solution explanations
 ├── solutions/                # C++ solutions for subtasks 1-6
 │   ├── sub1.cpp
 │   ├── ...
