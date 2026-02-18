@@ -63,7 +63,9 @@ The 6-subtask structure allows contestants to earn partial credit while solving 
 
 ## Competition
 
-This problem was used in COI 2026 Round A. For submission and official testing, visit the [COI website](https://www.coinformatics.org/).
+This problem was used in COI 2026 Round A. 
+- For submission and official testing, visit the [COI Official Website](https://www.coinformatics.org/).
+- For the official editorial, visit [COI Guide](https://coinformatics.github.io/coi-guide/editorials/COI/2026/Round_A/gpt7/).
 
 ---
 
