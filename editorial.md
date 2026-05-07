@@ -1,6 +1,12 @@
 # GPT-7 - Solution Editorial
 
-This editorial is also available on the official [COI Guide](https://coinformatics.github.io/coi-guide/editorials/COI/2026/Round_A/gpt7/) website.
+### Links:
+
+- **Problem and online judge:** [COI Training Platform - GPT-7](https://michanicos.cmscoinformatics.org/problems/2026-A/gpt7)
+
+- **Editorial on COI Guide:** [COI Guide - GPT-7](https://coinformatics.github.io/coi-guide/editorials/COI/2026/Round_A/gpt7/)
+
+---
 
 ## Subtask 1: N = 1, M ≤ 100, K = 1
 
